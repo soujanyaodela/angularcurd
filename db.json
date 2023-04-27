@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "date": "2023-01-16T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 25,
+      "comment": "fresh",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "date": "2023-01-16T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 25,
+      "comment": "fresh",
+      "id": 1
+    },
+    {
+      "productName": "mbles",
+      "category": "Electronics",
+      "date": "2023-01-03T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "price": 25000,
+      "comment": "fresh",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
